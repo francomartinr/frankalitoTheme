@@ -1,8 +1,8 @@
 {
   "name": "frankalito",
   "version": "1.0.0",
-  "description": "Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.",
-  "author": "Automattic Theme Team",
+  "description": "Custom theme for test",
+  "author": "Frankalito",
   "license": "GPL-2.0-or-later",
   "keywords": [
     "WordPress",
@@ -20,6 +20,10 @@
     "@wordpress/scripts": "^19.2.2",
     "dir-archiver": "^1.1.1",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-watch": "^5.0.1",
     "node-sass": "^7.0.1",
     "rtlcss": "^3.5.0"
   },
